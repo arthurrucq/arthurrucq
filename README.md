@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arthurrucq, former LeroyMerliniste and integrator
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning vuetify
+- 💞️ I’m looking to collaborate on datafinder 
+- 📫 How to reach me : arthur.rucquois@ext.adeo.com
